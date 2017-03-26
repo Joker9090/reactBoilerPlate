@@ -2,7 +2,7 @@ Instructions<br>
 -------------------
 Clone or Download and do npm install
 <br>
-not // Then sudo npm install babel-cli babel-preset-es2015
+not do this // Then sudo npm install babel-cli babel-preset-es2015
 <br>
 Finally node app.js
 
